@@ -14,5 +14,5 @@
 </div> <div align="center">
  
  
- [Strawpage](https://radionews.straw.page/)   [Atabook](https://deerbites.atabook.org/?page=1)
+ [Strawpage](https://deerbitess.straw.page/)   [Atabook](https://deerbites.atabook.org/?page=1)
 
