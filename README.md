@@ -14,5 +14,5 @@
 </div> <div align="center">
  
  
- [Strawpage](https://deerbitess.straw.page/)   [Atabook](https://deerbites.atabook.org/?page=1)
+ +rmking straw   [Atabook](https://deerbites.atabook.org/?page=1)
 
