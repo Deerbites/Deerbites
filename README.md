@@ -16,3 +16,8 @@
  
    [‎ ‎新book ‎](https://deerbites.atabook.org/?page=1)
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ne2coxpo35io5lplsz5w7y7wva&cover_image=true&theme=natemoo-re&show_offline=false&background_color=2b2b2b&interchange=false&profanity=true&hide_remaster=false&bar_color=1a1a1a&bar_color_cover=true">
+  </a>
+</p>
