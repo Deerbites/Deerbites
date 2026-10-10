@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Cormorant+Upright&duration=4000&pause=300&center=true&width=750&lines=You+can+call+it+love+but+I+don't+think+it's+true;+You+should+know+by+now;+I'm+not+the+boy+for+you.&color=674b30" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Cormorant+Upright&duration=4000&pause=300&center=true&width=750&lines=You+can+call+it+love+but+I+don't+think+it's+true;+You+should+know+by+now;+I'm+not+the+boy+for+you.&color=323226" />
   </p>
 
 </div> <div align="center">
