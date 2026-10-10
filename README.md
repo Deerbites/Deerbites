@@ -23,5 +23,3 @@
 </p>
 
 
-<div align="center"> 
- <img width="700" height="70" alt="image" src="https://64.media.tumblr.com/415cd8243ea60b09dbde84b53ecb2325/f011ed6aa467c205-0a/s2048x3072/5e8f920b5ab050cb127e8c6a3f9fa6edecf58d41.pnj" />
