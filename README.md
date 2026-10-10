@@ -2,7 +2,7 @@
 
 
 
- ![](https://komarev.com/ghpvc/?username=Deerbites&color=0a0e0f&style=plastic&label=🕷 )
+ ![](https://komarev.com/ghpvc/?username=Deerbites&color=0a0e0f&style=plastic&label= )
 
 
 <div align="center"> 
