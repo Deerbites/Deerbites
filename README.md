@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Cormorant+Upright&duration=4800&pause=300&center=true&width=750&lines=You+look+quite+divine+tonight..;+Here+among+these+vibrant+lights;Pure+delights+surround+us+as+we+sail;+signed,+yours+truly,&color=543d28" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Cormorant+Upright&duration=4000&pause=300&center=true&width=750&lines=I'll+keep+you+my+dirty+little+secret!;+Don't+tell+any+one+;Or+you'll+be+just+another+regret&color=543d28" />
   </p>
 
 </div> <div align="center">
