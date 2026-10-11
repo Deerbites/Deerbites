@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Cormorant+Upright&duration=4500&pause=300&center=true&width=750&lines=You+can+call+it+love+but+I+don't+think+it's+true;+You+should+know+by+now;+I'm+not+the+boy+for+you.&color=323226" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Cormorant+Upright&duration=5100&pause=300&center=true&width=750&lines=Sweetnes,+sweetness+i+was+only+joking+when+i+said+;+I'd+like+to+smash+every+tooth+in+your+head!..&color=323226" />
   </p>
 
 </div> <div align="center">
