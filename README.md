@@ -1,6 +1,6 @@
 </div> <div align="center">
 
-<img src="https://img.shields.io/badge/Profile%20Views-1-blue?style=plastic&color=0a0e0f" alt="  " />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Deerbites.Deerbites&left_color=black&right_color=darkgray&label=ꨄ︎" alt="Profile Views" />
 
 <div align="center"> 
 <img src="https://file.garden/aor2QOxhC0HNAJ4p/Untitled449_20261010132612__fliter--dark-green-sepia__channel--all__mode--color__fliter--sea__channel--all__mode--darken.png" height="400" width="499">
