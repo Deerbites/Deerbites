@@ -1,9 +1,6 @@
 </div> <div align="center">
 
-
-
- ![](https://komarev.com/ghpvc/?username=Deerbites&color=0a0e0f&style=plastic&label=  )
-
+<img src="https://img.shields.io/badge/Profile%20Views-1-blue?style=plastic&color=0a0e0f" alt="  " />
 
 <div align="center"> 
 <img src="https://file.garden/aor2QOxhC0HNAJ4p/Untitled449_20261010132612__fliter--dark-green-sepia__channel--all__mode--color__fliter--sea__channel--all__mode--darken.png" height="400" width="499">
