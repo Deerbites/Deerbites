@@ -1,0 +1,46 @@
+name: Profile Views Counter
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically every day at midnight
+  workflow_dispatch: # Allows you to run it manually whenever you want
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Gives the robot permission to save changes
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update Profile Views
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const readmePath = 'README.md';
+            let readme = fs.readFileSync(readmePath, 'utf8');
+
+            // This looks for your badge URL and grabs the current number
+            const regex = /Profile%20Views-(\d+)-/;
+            const match = readme.match(regex);
+
+            if (match) {
+              let currentCount = parseInt(match[1]);
+              let newCount = currentCount + 1;
+              console.log(`Updating views from ${currentCount} to ${newCount}`);
+              
+              // This replaces the old number with the new one
+              readme = readme.replace(regex, `Profile%20Views-${newCount}-`);
+              fs.writeFileSync(readmePath, readme);
+            } else {
+              console.log('Could not find the views badge in README.md');
+            }
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: bump profile views [skip ci]"
+          file_pattern: README.md
