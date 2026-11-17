@@ -3,7 +3,7 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDeerbites&label=%E2%9C%A6&labelColor=%23000000&countColor=%230a0e0f&style=plastic" alt="Profile Views" />
 
 <div align="center"> 
-<img src="https://file.garden/aor2QOxhC0HNAJ4p/Untitled469_20261117224953%20(1)__fliter--warm-sea__channel--all__mode--lighten.png" height="400" width="400">
+<img src="https://file.garden/aor2QOxhC0HNAJ4p/Untitled469_20261117224953%20(1)__fliter--warm-sea__channel--all__mode--lighten.png" height="400" width="415">
 
 
 <p align="center">
